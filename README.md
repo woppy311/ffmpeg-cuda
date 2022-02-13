@@ -1,4 +1,5 @@
-# THIS IS PROJECT IS NOT MAINTAINED ANYMORE. FEEL FREE TO FORK AND MAKE CHANGES TO IT. ORIGINAL PROJECT: https://github.com/markus-perl/ffmpeg-build-script
+# THIS IS PROJECT IS NOT MAINTAINED ANYMORE.
+# ORIGINAL PROJECT: https://github.com/markus-perl/ffmpeg-build-script
 # colab-ffmpeg-cuda
 
 FFmpeg build with CUDA support for Ubuntu (especially for Google Colab) with pre-built required binaries.
